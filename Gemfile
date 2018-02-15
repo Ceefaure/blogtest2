@@ -38,6 +38,8 @@ gem 'turbolinks', '~> 5'
 gem 'bootstrap-sass'
 gem 'simple_form'
 
+gem 'figaro'
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
